@@ -1,1 +1,4 @@
-www.320chesapeakebayanalysis.com --> type1larosa3.github.io.
+<?
+Header( "HTTP/1.1 301 Moved Permanently" ); 
+Header( "Location: www.320chesapeakebayanalysis.com" ); 
+?>
